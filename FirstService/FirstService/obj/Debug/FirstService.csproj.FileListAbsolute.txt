@@ -1,0 +1,17 @@
+E:\_boostNode\GitHub\IN2017\IN2017_Module11\FirstService\FirstService\bin\Debug\FirstService.exe.config
+E:\_boostNode\GitHub\IN2017\IN2017_Module11\FirstService\FirstService\bin\Debug\FirstService.exe
+E:\_boostNode\GitHub\IN2017\IN2017_Module11\FirstService\FirstService\bin\Debug\FirstService.pdb
+E:\_boostNode\GitHub\IN2017\IN2017_Module11\FirstService\FirstService\obj\Debug\FirstService.csprojResolveAssemblyReference.cache
+E:\_boostNode\GitHub\IN2017\IN2017_Module11\FirstService\FirstService\obj\Debug\FirstService.FirstService.resources
+E:\_boostNode\GitHub\IN2017\IN2017_Module11\FirstService\FirstService\obj\Debug\FirstService.csproj.GenerateResource.Cache
+E:\_boostNode\GitHub\IN2017\IN2017_Module11\FirstService\FirstService\obj\Debug\FirstService.exe
+E:\_boostNode\GitHub\IN2017\IN2017_Module11\FirstService\FirstService\obj\Debug\FirstService.pdb
+E:\_boostNode\GitHub\IN2017\IN2017_Module11\FirstService\FirstService\obj\Debug\FirstService.ProjectInstaller.resources
+K:\_boostNode\GitHub\IN2017\IN2017_Module11\FirstService\FirstService\bin\Debug\FirstService.exe.config
+K:\_boostNode\GitHub\IN2017\IN2017_Module11\FirstService\FirstService\obj\Debug\FirstService.exe
+K:\_boostNode\GitHub\IN2017\IN2017_Module11\FirstService\FirstService\obj\Debug\FirstService.pdb
+K:\_boostNode\GitHub\IN2017\IN2017_Module11\FirstService\FirstService\bin\Debug\FirstService.exe
+K:\_boostNode\GitHub\IN2017\IN2017_Module11\FirstService\FirstService\bin\Debug\FirstService.pdb
+K:\_boostNode\GitHub\IN2017\IN2017_Module11\FirstService\FirstService\obj\Debug\FirstService.FirstService.resources
+K:\_boostNode\GitHub\IN2017\IN2017_Module11\FirstService\FirstService\obj\Debug\FirstService.ProjectInstaller.resources
+K:\_boostNode\GitHub\IN2017\IN2017_Module11\FirstService\FirstService\obj\Debug\FirstService.csproj.GenerateResource.Cache
