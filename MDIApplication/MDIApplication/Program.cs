@@ -1,7 +1,15 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+﻿/*
+ *  Author: Troy Davis
+ *  Project: Module11 - WindowsFormsDesign
+ *      - Software Development Fundamentals Lesson 5
+ *        -- Understanding Multiple Document Interface (MDI) Applications - exercise p127
+ *            
+ *  Class: IN 2017 (Advanced C#)
+ *  Date: Apr 12, 2017 
+ *  Revision: Original
+ */
+
+using System;
 using System.Windows.Forms;
 
 namespace MDIApplication
